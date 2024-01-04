@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Manuel Calixto👋
-##### Soy Desarrollador web
+##### Estudiante De Ing. Desarrollo Y Gesttion De Software
 
 <!--
 **ManuelCalixto/ManuelCalixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
