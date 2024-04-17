@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Manuel Garcia / @mane09__ ✨ </h1> 
 
 <p align="left">
-<a href="www.tiktok.com/@mane09__" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@manegarcia" /></a>
+<a href="https://www.tiktok.com/@mane09__" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@manegarcia" /></a>
 <a href="https://www.facebook.com/profile.php?id=100052052656040" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@manegarcia"  /></a>
 <a href = "kadashuhia@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@manegarcia"  /></a>
   </p>
