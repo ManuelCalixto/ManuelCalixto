@@ -40,3 +40,6 @@
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+Credits: [Manuel Garcia](https://github.com/ManuelCalixto)
+
+Last Edited on: 11/12/2020
