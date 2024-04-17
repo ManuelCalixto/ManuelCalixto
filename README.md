@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://www.tiktok.com/@mane09__" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@manegarcia" /></a>
 <a href="https://www.facebook.com/profile.php?id=100052052656040" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@manegarcia"  /></a>
-<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@manegarcia"  /></a>
+<a href = "mailto:kadashuhia@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@manegarcia"  /></a>
   </p>
 <br>
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi </h2>
