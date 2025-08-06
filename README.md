@@ -6,7 +6,7 @@
 <a href = "mailto:kadashuhia@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@manegarcia"  /></a>
   </p>
 <br>
-<h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi </h2>
+<h2> Sobre mi </h2>
 <!--Intro start-->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
